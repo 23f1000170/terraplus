@@ -15,6 +15,17 @@ Production-style hackathon MVP for AI-powered agricultural marketing at scale. T
 - **Grower Selfie Tool:** An HTML5 Canvas-based offline-capable feature for farmers to generate branded selfies to share on WhatsApp, acting as an AI-powered brand advocacy engine.
 - **Admin Dashboard:** Visualizes campaign performance, open rates by crop, and channel distributions.
 
+## 🛠 Tech Stack
+
+| Layer | Technology |
+|--------|------------|
+| Frontend | Vue.js |
+| Backend | FastAPI |
+| Machine Learning | LightGBM |
+| Vector Database | FAISS |
+| Database | SQLite |
+| AI Framework | LangChain |
+
 ## Backend Setup
 
 Use Python 3.11 or 3.12 for the pinned ML stack. The saved LightGBM/scikit-learn artifacts were produced with the standard 3.11-era packages.
