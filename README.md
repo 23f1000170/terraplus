@@ -30,6 +30,17 @@ Both interfaces are now merged into a single frontend application without breaki
 
 ---
 
+## 🛠 Tech Stack
+
+| Layer | Technology |
+|--------|------------|
+| Frontend | Vue.js |
+| Backend | FastAPI |
+| Machine Learning | LightGBM |
+| Vector Database | FAISS |
+| Database | SQLite |
+| AI Framework | LangChain |
+
 ## Backend Setup
 
 > Use **Python 3.11 or 3.12**. The saved LightGBM/scikit-learn artifacts were produced with the standard 3.11-era packages.
